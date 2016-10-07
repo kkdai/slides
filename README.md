@@ -9,4 +9,5 @@
 - 3. [08/31: Docker swarm introduction](http://www.slideshare.net/EvansLin/docker-swarm-introduction-65539840)
 - 4. [09/09: GTG16: Using Golang to build a smart IM Bot](http://www.slideshare.net/EvansLin/gopher-taiwan-gathering-16-build-a-smart-bot-via-golang)
 - 5. [09/16 Use Go Channel to write a Disk Queue](http://www.slideshare.net/EvansLin/use-go-channel-to-write-a-disk-queue)
+- 6. [10/07 Kubernetes Authentication and Authorization Survey](https://docs.google.com/presentation/d/1ZbEMNutvf1p5y4_E5lVtXOgNJE9q9ML1Z0jSYx5-dUo/pub?start=false&loop=false&delayms=3000)
 
