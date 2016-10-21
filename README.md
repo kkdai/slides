@@ -10,4 +10,5 @@
 - 4. [09/09: GTG16: Using Golang to build a smart IM Bot](http://www.slideshare.net/EvansLin/gopher-taiwan-gathering-16-build-a-smart-bot-via-golang)
 - 5. [09/16 Use Go Channel to write a Disk Queue](http://www.slideshare.net/EvansLin/use-go-channel-to-write-a-disk-queue)
 - 6. [10/07 Kubernetes Authentication and Authorization Survey](https://docs.google.com/presentation/d/1ZbEMNutvf1p5y4_E5lVtXOgNJE9q9ML1Z0jSYx5-dUo/pub?start=false&loop=false&delayms=3000)
+- 7. [10/21 Go + GoQuery + gomobile  實作 iPhone 來下載批踢踢內容](https://docs.google.com/presentation/d/1Jt8E76yiFWCsyopo-55KspFqdU6FxtCKQTMexE4Uu7Y/edit?usp=sharing)
 
