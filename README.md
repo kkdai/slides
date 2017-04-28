@@ -14,5 +14,6 @@
 - 08. [11/15 ChatBotMeetup#1 如何透過 Golang 與 Heroku 來一鍵部署 臉書機器人與 Line Bot](https://docs.google.com/presentation/d/1KksoZxQCIsPIcZFtKdf7cZ9eacSWcKeUfgXodAbYb5g/edit?usp=sharing)
 - 09. [12/02 In Love with Golang](http://go-talks.appspot.com/github.com/kkdai/GolangTalks/gdgfest/gdgfest.slide#1)
 - 10. [04/19 GDG: Google APAC Machine Learning Expert Day Sharing](https://docs.google.com/presentation/d/1tfDyrE5whkedNV3_clLJMy9bBkGy6r2X895gtnmtWH4/edit?usp=sharing)
+- 11. [04/27 iThome Chatbot Day: 透過 Golang 無痛建置機器學習聊天機器人](https://docs.google.com/presentation/d/1OKlV0s8ECdo5efMhgIuwIWvB9mh05v0tygO2LvcvwIc/edit?usp=sharing)
 
 
