@@ -16,5 +16,6 @@ Try to summarised all my slides
 - 10. [04/19 GDG: Google APAC Machine Learning Expert Day Sharing](https://docs.google.com/presentation/d/1tfDyrE5whkedNV3_clLJMy9bBkGy6r2X895gtnmtWH4/edit?usp=sharing)
 - 11. [04/27 iThome Chatbot Day: 透過 Golang 無痛建置機器學習聊天機器人](https://docs.google.com/presentation/d/1OKlV0s8ECdo5efMhgIuwIWvB9mh05v0tygO2LvcvwIc/edit?usp=sharing)
 - 12. [06/23 iThome Cloud Summit: The next generation of data center: Machine Intelligent Cluster](https://www.slideshare.net/EvansLin/ithome-cloud-summit-mic)
+- 13. [03/27 GTG30: Introduction vgo](https://www.slideshare.net/EvansLin/gtg30-introduction-vgo)
 
 
