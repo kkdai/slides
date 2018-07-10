@@ -12,7 +12,7 @@ Try to summarised all my slides
 - 06. [2016/10/07 Kubernetes Authentication and Authorization Survey](https://docs.google.com/presentation/d/1ZbEMNutvf1p5y4_E5lVtXOgNJE9q9ML1Z0jSYx5-dUo/pub?start=false&loop=false&delayms=3000)
 - 07. [2016/10/21 Go + GoQuery + gomobile  實作 iPhone 來下載批踢踢內容](https://docs.google.com/presentation/d/1Jt8E76yiFWCsyopo-55KspFqdU6FxtCKQTMexE4Uu7Y/edit?usp=sharing)
 - 08. [2016/11/15 ChatBotMeetup#1 如何透過 Golang 與 Heroku 來一鍵部署 臉書機器人與 Line Bot](https://docs.google.com/presentation/d/1KksoZxQCIsPIcZFtKdf7cZ9eacSWcKeUfgXodAbYb5g/edit?usp=sharing)
-- 09. [2016/12/02 In Love with Golang](http://go-talks.appspot.com/github.com/kkdai/GolangTalks/gdgfest/gdgfest.slide#1)
+- 09. [2016/12/02 GDG DevFest Taipei 2016: In Love with Golang](http://go-talks.appspot.com/github.com/kkdai/GolangTalks/gdgfest/gdgfest.slide#1)
 - 10. [2017/04/19 GDG: Google APAC Machine Learning Expert Day Sharing](https://docs.google.com/presentation/d/1tfDyrE5whkedNV3_clLJMy9bBkGy6r2X895gtnmtWH4/edit?usp=sharing)
 - 11. [2017/04/27 iThome Chatbot Day: 透過 Golang 無痛建置機器學習聊天機器人](https://docs.google.com/presentation/d/1OKlV0s8ECdo5efMhgIuwIWvB9mh05v0tygO2LvcvwIc/edit?usp=sharing)
 - 12. [2017/06/23 iThome Cloud Summit: The next generation of data center: Machine Intelligent Cluster](https://www.slideshare.net/EvansLin/ithome-cloud-summit-mic)
