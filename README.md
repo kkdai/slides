@@ -21,6 +21,8 @@ Try to summarised all my slides
 - 15. [2018/03/27 GTG30: Introduction vgo](https://www.slideshare.net/EvansLin/gtg30-introduction-vgo)
 - 16. [2018/04/03 Consistent hashing algorithmic tradeoffs](https://www.slideshare.net/EvansLin/consistent-hashing-algorithmic-tradeoffs)
 - 17. [2018/06/13 Kubernetes secret introduction](https://www.slideshare.net/EvansLin/kubernetes-secret-introduction)
+- 18. [2018/07/18 iThome Modern Web 2018: 如何打造高效的機器學習平台](https://www.slideshare.net/EvansLin/ithome-modern-web-2018)
+
 
 
 
