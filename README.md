@@ -23,6 +23,10 @@ Try to summarised all my slides
 - 17. [2018/06/13 Kubernetes secret introduction](https://www.slideshare.net/EvansLin/kubernetes-secret-introduction)
 - 18. [2018/07/18 iThome Modern Web 2018: 如何打造高效的機器學習平台](https://www.slideshare.net/EvansLin/ithome-modern-web-2018)
 - 19. [2018/08/04 Linker Internal training: Introduction Channel](https://go-talks.appspot.com/github.com/kkdai/GolangTalks/introduction-channel/gochannel.slide)
+- 20. [GTG Introduction](https://docs.google.com/presentation/d/1_Eup5yLcrTXxpB_a6dWjeUv-LS_I5NBHiRQgsPwzKoE/edit?usp=sharing)
+
+
+
 
 
 
