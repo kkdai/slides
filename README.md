@@ -26,7 +26,7 @@ Try to summarised all my slides
 - 20. [2018/12/21 TechPulse 2018: LINE 開發者社群經營與技術推廣](https://www.slideshare.net/linecorp/line-126805744)
 - 21. [2019/03/29 LINE Developer Meetup7: LINE Taiwan developer relations 2019 plan](https://speakerdeck.com/line_developers/line-taiwan-developer-relations-2019-plan)
 - 22. [2019/04/12 Chatbots 09 Introduction Account Link](https://speakerdeck.com/line_developers/introduce-line-account-link)
-- 23 [GTG Introduction](https://docs.google.com/presentation/d/1_Eup5yLcrTXxpB_a6dWjeUv-LS_I5NBHiRQgsPwzKoE/edit?usp=sharing)
+- 23. [GTG Introduction](https://docs.google.com/presentation/d/1_Eup5yLcrTXxpB_a6dWjeUv-LS_I5NBHiRQgsPwzKoE/edit?usp=sharing)
 
 - 24. [2019/05/24 LINE Developer Meetup8: What developers should know for OA 2.0](https://speakerdeck.com/line_developers/what-developers-should-know-for-oa-2-0)
 
