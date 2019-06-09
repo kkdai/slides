@@ -5,7 +5,7 @@ Try to summarised all my slides
 # Progress:
 
 - 01. [2016/08/19: COSCUP 2016: Project 52 每週一個小專案來學習 Golang](http://www.slideshare.net/EvansLin/coscup-2016-project-52-for-golang)
-- 02. [2016/08/24: Modern Web 2016: Using Golang to build a smart IM Bot](http://www.slideshare.net/EvansLin/modern-web-2016-using-golang-to-build-a-smart-im-bot)
+- 02 [2016/08/24: Modern Web 2016: Using Golang to build a smart IM Bot](http://www.slideshare.net/EvansLin/modern-web-2016-using-golang-to-build-a-smart-im-bot)
 - 03. [2016/08/31: Docker swarm introduction](http://www.slideshare.net/EvansLin/docker-swarm-introduction-65539840)
 - 04. [2016/09/09: GTG16: Using Golang to build a smart IM Bot](http://www.slideshare.net/EvansLin/gopher-taiwan-gathering-16-build-a-smart-bot-via-golang)
 - 05. [2016/09/16 Use Go Channel to write a Disk Queue](http://www.slideshare.net/EvansLin/use-go-channel-to-write-a-disk-queue)
@@ -24,6 +24,10 @@ Try to summarised all my slides
 - 18. [2018/07/18 iThome Modern Web 2018: 如何打造高效的機器學習平台](https://www.slideshare.net/EvansLin/ithome-modern-web-2018)
 - 19. [2018/08/04 Linker Internal training: Introduction Channel](https://go-talks.appspot.com/github.com/kkdai/GolangTalks/introduction-channel/gochannel.slide)
 - 20. [GTG Introduction](https://docs.google.com/presentation/d/1_Eup5yLcrTXxpB_a6dWjeUv-LS_I5NBHiRQgsPwzKoE/edit?usp=sharing)
+- 21. [2018/12/21 TechPulse 2018: LINE 開發者社群經營與技術推廣](https://www.slideshare.net/linecorp/line-126805744)
+- 22. [2019/03/29 LINE Developer Meetup7: LINE Taiwan developer relations 2019 plan](https://speakerdeck.com/line_developers/line-taiwan-developer-relations-2019-plan)
+- 22. [2019/04/12 Chatbots 09 Introduction Account Link](https://speakerdeck.com/line_developers/introduce-line-account-link)
+- 23. [2019/05/24 LINE Developer Meetup8: What developers should know for OA 2.0](https://speakerdeck.com/line_developers/what-developers-should-know-for-oa-2-0)
 
 
 
