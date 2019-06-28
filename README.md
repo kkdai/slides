@@ -29,6 +29,7 @@ Try to summarised all my slides
 - 23. [GTG Introduction](https://docs.google.com/presentation/d/1_Eup5yLcrTXxpB_a6dWjeUv-LS_I5NBHiRQgsPwzKoE/edit?usp=sharing)
 
 - 24. [2019/05/24 LINE Developer Meetup8: What developers should know for OA 2.0](https://speakerdeck.com/line_developers/what-developers-should-know-for-oa-2-0)
+- 25. [2019/06/27 Chatbots meetup #10](https://speakerdeck.com/line_developers/write-image-proxy-server-for-line-bot-in-go)
 
 
 
