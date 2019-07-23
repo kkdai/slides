@@ -30,6 +30,7 @@ Try to summarised all my slides
 
 - 24. [2019/05/24 LINE Developer Meetup8: What developers should know for OA 2.0](https://speakerdeck.com/line_developers/what-developers-should-know-for-oa-2-0)
 - 25. [2019/06/27 Chatbots meetup #10: Write image proxy server for LINE Bot in Go](https://speakerdeck.com/line_developers/write-image-proxy-server-for-line-bot-in-go)
+- 26. [2019/07/23 Chatbots meetup #11: LINE Social API in GO](https://speakerdeck.com/line_developers_tw/line-social-api-in-go)
 
 
 
