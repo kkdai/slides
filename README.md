@@ -32,6 +32,9 @@ Try to summarised all my slides
 25. [2019/06/27 Chatbots meetup #10: Write image proxy server for LINE Bot in Go](https://speakerdeck.com/line_developers/write-image-proxy-server-for-line-bot-in-go)
 26. [2019/07/23 Chatbots meetup #11: LINE Social API in GO](https://speakerdeck.com/line_developers_tw/line-social-api-in-go)
 27. [2019/07/30 Introducing the go channel and pipeline](https://go-talks.appspot.com/github.com/kkdai/GolangTalks/introduction-channel-2019/gochannel.slide#1)
+28. [2019/08/17 COSCUP -  LINE OPEN UP](https://speakerdeck.com/line_developers_tw/line-open-up)
+29. [2019/09/17 Chatbot meetup #12: LINE Platform update - 201909](https://speakerdeck.com/line_developers_tw/line-platform-update-201909)
+30. [2019/10/02 LINE API Introduction - 20191002](https://speakerdeck.com/line_developers_tw/line-api-introduction-20191002)
 
 
 
