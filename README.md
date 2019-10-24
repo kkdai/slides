@@ -35,7 +35,7 @@ Try to summarised all my slides
 28. [2019/08/17 COSCUP 2019 -  LINE OPEN UP](https://speakerdeck.com/line_developers_tw/line-open-up)
 29. [2019/09/17 Chatbot meetup #12: LINE Platform update - 201909](https://speakerdeck.com/line_developers_tw/line-platform-update-201909)
 30. [2019/10/02 LINE API Introduction - 20191002](https://speakerdeck.com/line_developers_tw/line-api-introduction-20191002)
-
+31. [2019/10/24 How I become Go GDE - Golang Tokyo](https://www.slideshare.net/EvansLin/how-i-become-go-gde)
 
 
 
