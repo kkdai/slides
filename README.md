@@ -36,6 +36,7 @@ Try to summarised all my slides
 29. [2019/09/17 Chatbot meetup #12: LINE Platform update - 201909](https://speakerdeck.com/line_developers_tw/line-platform-update-201909)
 30. [2019/10/02 LINE API Introduction - 20191002](https://speakerdeck.com/line_developers_tw/line-api-introduction-20191002)
 31. [2019/10/24 How I become Go GDE - Golang Tokyo](https://www.slideshare.net/EvansLin/how-i-become-go-gde)
+32. [2019/11/05 Golang Taipei #45 10th Birthday](https://speakerdeck.com/line_developers_tw/golang-taipei-number-45-10th-birthday)
 
 
 
