@@ -41,6 +41,8 @@ Try to summarised all my slides
 34. [2019/11/27 What's new in LIFF v2 and TECHPULSE 2019 preview](https://speakerdeck.com/line_developers_tw/line-platform-update-201910)
 
 35.  [2019/12/01 GDG DevFest Taipei 2019 - 10 years of Go](https://speakerdeck.com/line_developers_tw/gdgdevfest-2019-10-years-of-go)
+36.  [2019/12/04 LINE TECHPULSE 2019 - LINE Platform API Update](https://speakerdeck.com/line_developers_tw/techpulse-2019-line-platform-api-update)
+37.  [2019/12/11 Chatbots Meetup Taiching#5 - LINE developer OA update and API update](https://speakerdeck.com/line_developers_tw/line-developer-oa-update-and-api-update)
 
 
 
