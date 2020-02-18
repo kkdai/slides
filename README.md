@@ -43,6 +43,8 @@ Try to summarised all my slides
 35.  [2019/12/01 GDG DevFest Taipei 2019 - 10 years of Go](https://speakerdeck.com/line_developers_tw/gdgdevfest-2019-10-years-of-go)
 36.  [2019/12/04 LINE TECHPULSE 2019 - LINE Platform API Update](https://speakerdeck.com/line_developers_tw/techpulse-2019-line-platform-api-update)
 37.  [2019/12/11 Chatbots Meetup Taiching#5 - LINE developer OA update and API update](https://speakerdeck.com/line_developers_tw/line-developer-oa-update-and-api-update)
+38. [2020/01/02 LINE Taiwan Developer Relations 2019 update](https://speakerdeck.com/line_developers_tw/line-taiwan-developer-relations-2019-update)
+39. [2020/01/15 LINE API Introduction - 20200115](https://speakerdeck.com/line_developers_tw/line-api-introduction-20200115)
 
 
 
