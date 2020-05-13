@@ -47,7 +47,7 @@ Try to summarised all my slides
 39. [2020/01/15 LINE API Introduction - 20200115](https://speakerdeck.com/line_developers_tw/line-api-introduction-20200115)
 40. [2020/03/17 LINE API Introduction - 20200317](https://speakerdeck.com/line_developers_tw/line-api-introduction-20200317)
 41. [2020/04/21 LINE API Introduction - 20200421](https://speakerdeck.com/line_developers_tw/line-api-introduction-20200421)
-
+42. [2020/05/07 DSC x GDE : Using Go to build LINE Bot](https://speakerdeck.com/line_developers_tw/build-line-bot-with-go)
 
 
 
