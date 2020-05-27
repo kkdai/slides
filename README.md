@@ -48,6 +48,8 @@ Try to summarised all my slides
 40. [2020/03/17 LINE API Introduction - 20200317](https://speakerdeck.com/line_developers_tw/line-api-introduction-20200317)
 41. [2020/04/21 LINE API Introduction - 20200421](https://speakerdeck.com/line_developers_tw/line-api-introduction-20200421)
 42. [2020/05/07 DSC x GDE : Using Go to build LINE Bot](https://speakerdeck.com/line_developers_tw/build-line-bot-with-go)
+43. [2020/05/26 GTG49: How to use Golang download YouTube video](https://speakerdeck.com/line_developers_tw/how-to-use-golang-download-youtube-video)
+
 
 
 
