@@ -52,6 +52,7 @@ Try to summarised all my slides
 44. [2020/05/27 Chatbot#19: LINE API Introduction - 20200527](https://speakerdeck.com/line_developers_tw/line-developer-oa-update-and-api-update-2020-may)
 45. [2020/05/27 Chatbot#19: DETAIL IN LINE EMOJI IN TEXT MESSAGING BY GOLANG](https://speakerdeck.com/line_developers_tw/detail-in-line-emoji-in-text-messaging-by-golang)
 46. [2020/05/29 工程人才實務專題成果發表暨業界交流會: Edge Computing with LINE Bot](https://speakerdeck.com/line_developers_tw/edge-computing-with-line-bot)
+47. [2020/06/23 LINE Platform Update 2020/06 & LINE Group/Room API Demo](https://speakerdeck.com/line_developers_tw/room-api-demo)
 
 
 
