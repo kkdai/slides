@@ -54,7 +54,7 @@ Try to summarised all my slides
 46. [2020/05/29 工程人才實務專題成果發表暨業界交流會: Edge Computing with LINE Bot](https://speakerdeck.com/line_developers_tw/edge-computing-with-line-bot)
 47. [2020/06/23 LINE Platform Update 2020/06 & LINE Group/Room API Demo](https://speakerdeck.com/line_developers_tw/room-api-demo)
 47. [2020/07/22 LINE Platform Update 2020/07](https://speakerdeck.com/line_developers_tw/line-api-platform-update-202007)
-
+48. [2020/09/03 LIFF (LINE Frontend Framework) 的介紹與相關應用](https://speakerdeck.com/line_developers_tw/introducing-liff-and-its-application)
 
 
 
