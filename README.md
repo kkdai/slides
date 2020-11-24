@@ -55,6 +55,7 @@ Try to summarised all my slides
 47. [2020/06/23 LINE Platform Update 2020/06 & LINE Group/Room API Demo](https://speakerdeck.com/line_developers_tw/room-api-demo)
 47. [2020/07/22 LINE Platform Update 2020/07](https://speakerdeck.com/line_developers_tw/line-api-platform-update-202007)
 48. [2020/09/03 LIFF (LINE Frontend Framework) 的介紹與相關應用](https://speakerdeck.com/line_developers_tw/introducing-liff-and-its-application)
+49. [2020/11/24 How to master a programming language: a Golang example](https://www2.slideshare.net/EvansLin/how-to-master-a-programming-language-a-golang-example)
 
 
 
