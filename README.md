@@ -57,6 +57,11 @@ Try to summarised all my slides
 48. [2020/09/03 LIFF (LINE Frontend Framework) 的介紹與相關應用](https://speakerdeck.com/line_developers_tw/introducing-liff-and-its-application)
 49. [2020/11/24 How to master a programming language: a Golang example](https://www2.slideshare.net/EvansLin/how-to-master-a-programming-language-a-golang-example)
 50. [2020/12/18 LINE Platform API Update 2020](https://speakerdeck.com/line_developers_tw/line-techpulse-2020-platform-api-update)
+51. [2021/01/15 LINE Developer Relations 2020 Update](https://speakerdeck.com/line_developers_tw2/line-developer-relations-2020-update)
+52. [2021/04/27 What will happen when you enable go modules on the legacy Go projects](https://speakerdeck.com/line_developers_tw2/what-will-happen-when-you-enable-go-modules-on-the-legacy-go-projects)
+53. [2021/05/22 Internal Developer Relations](https://speakerdeck.com/line_developers_tw2/20210522-internal-developer-relations)
+54. [2021/06/01 Let’s talk about OAuth2 and PKCE in Go](https://speakerdeck.com/line_developers_tw2/lets-talk-about-oauth2-and-pkce-in-go)
+
 
 
 
