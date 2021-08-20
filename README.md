@@ -63,6 +63,7 @@ Try to summarised all my slides
 54. [2021/06/01 Let’s talk about OAuth2 and PKCE in Go](https://speakerdeck.com/line_developers_tw2/lets-talk-about-oauth2-and-pkce-in-go)
 55. [2021/07/03 Introducing LINE ecosystem](https://speakerdeck.com/line_developers_tw2/introducing-line-ecosystem)
 56. [2021/08/09 How to master programming and get an internship job on LINE](https://speakerdeck.com/line_developers_tw/how-to-master-programming-and-get-an-internship-job-on-line)
+57. [2021/08/20 How to build your open source project](https://speakerdeck.com/line_developers_tw/how-to-build-your-open-source-project)
 
 
 
